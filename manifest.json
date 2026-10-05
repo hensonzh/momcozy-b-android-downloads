@@ -1,0 +1,16 @@
+{
+  "channel": "public_sideload_test_not_google_play",
+  "app": "Momcozy AI",
+  "versionName": "1.0.0",
+  "versionCode": 70,
+  "androidPackage": "momcozy.com.mai",
+  "downloadPage": "https://hensonzh.github.io/momcozy-b-android-downloads/",
+  "apkUrl": "https://github.com/hensonzh/momcozy-b-android-downloads/releases/download/b-android-v1.0.0-70/momcozy-b-android-1.0.0-70-universal.apk",
+  "apkSha256": "c4da50d0c209fbb49f5e6c24863bdb578582aa4f412cafcb4bad0d16f97ac5a4",
+  "apkBytes": 220001515,
+  "uploadSigningCertSha256": "393197a6e7e4ef74583bb03be35f870bca76ab11baed6d6dd395b49847a0d3c3",
+  "sourceCommit": "90f525c41dfd7ef3c5474992d78302971aae74a8",
+  "sourceTag": "b-store-v1.0.0-70",
+  "ciRunId": 37256511229,
+  "ciAabSha256": "4738188a9034ce81b5278320e0d710506157ba39b58713cc68f8c9899976002e"
+}
